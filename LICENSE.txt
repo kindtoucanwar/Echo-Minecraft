@@ -13,4 +13,4 @@ Echo. Minecraft Java Edition utility client.
 
 
 TAGS
-echo, echo-client, minecraft-client, minecraft-java       
+echo, echo-client, minecraft-client, minecraft-java        
